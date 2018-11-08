@@ -1,0 +1,19 @@
+{
+  "name": "listitangular",
+  "version": "1.0.0",
+  "description": "a shared realtime shopping list app",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "export NODE_ENV=test && jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adahutchings/ListIt-Angular.git"
+  },
+  "author": "Ada Hutchings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adahutchings/ListIt-Angular/issues"
+  },
+  "homepage": "https://github.com/adahutchings/ListIt-Angular#readme"
+}
